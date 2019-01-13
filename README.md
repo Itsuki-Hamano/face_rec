@@ -4,5 +4,5 @@
   <li>googleColaboratoryで作成したので、Jupyterで動かせると思います。<br>
     pythonで動かしたい場合は、後半のセルに書いてあるコードを、そのままコピペしてください。<br></li>
 <li>openCV公式がgithubで配布している重みファイルだと読み込みエラーがでるので、<br>
-  github以外のpipコマンド等でopenCVをインストールして、そのパスに合わせてください。</li>
+  upしました</li>
   </ul>
